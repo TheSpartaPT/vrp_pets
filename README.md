@@ -7,6 +7,7 @@ Also: The script strings are all in portuguese and i don't want to have the work
 ### Dependencies
 
 >[vRP Framework](https://forum.fivem.net/t/release-vrp-framework/22894)
+>
 >[MySQL-Async](https://forum.fivem.net/t/release-mysql-async-library-v2-1-1-fxserver/21881)
 
 ### Installation
