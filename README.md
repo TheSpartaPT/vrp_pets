@@ -12,4 +12,12 @@ Also: The script strings are all in portuguese and i don't want to have the work
 
 >1- Drag and Drop the vrp_pets folder into the resources folder;
 >
->2- add this line "start vrp_pets" on server.cfg under "start vrp".
+>2- Add this line "start vrp_pets" on server.cfg under "start vrp".
+>
+>3- Import the SQL file to your vRP mysql database. (if it doesn't work add 'use [your database name here];' before everything on that file)
+>
+>4- Add the item "croquettes" to your items and stores config.
+>
+>5- ????
+>
+>6- Profit!
