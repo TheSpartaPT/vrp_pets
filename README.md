@@ -1,3 +1,7 @@
+# WARNING:
+
+### Repo is archived, you can still fork it if you want to change stuff, I won't be changing anything / updating from now on I stopped playing FiveM.
+
 # FiveM [vRP] Pets
 
 Quick Disclaimer: this script is a vRP port of this one https://github.com/ESX-PUBLIC/eden_animal
